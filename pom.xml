@@ -8,6 +8,12 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
+	
+	<!-- for dependency -->
+	<packaging>war</packaging>
+	
+	<!-- for dependency -->
 	<groupId>com.main</groupId>
 	<artifactId>JSpConnectProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
